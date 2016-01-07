@@ -1,0 +1,41 @@
+C:\Users\ardhy\Documents\Visual Studio 2015\Projects\Majles\ParallelSPSS\bin\Debug\ParallelSPSS.exe.config
+C:\Users\ardhy\Documents\Visual Studio 2015\Projects\Majles\ParallelSPSS\bin\Debug\ParallelSPSS.exe
+C:\Users\ardhy\Documents\Visual Studio 2015\Projects\Majles\ParallelSPSS\bin\Debug\ParallelSPSS.pdb
+C:\Users\ardhy\Documents\Visual Studio 2015\Projects\Majles\ParallelSPSS\bin\Debug\unvell.ReoGrid.dll
+C:\Users\ardhy\Documents\Visual Studio 2015\Projects\Majles\ParallelSPSS\obj\Debug\ParallelSPSS.csprojResolveAssemblyReference.cache
+C:\Users\ardhy\Documents\Visual Studio 2015\Projects\Majles\ParallelSPSS\obj\Debug\ParallelSPSS.Form1.resources
+C:\Users\ardhy\Documents\Visual Studio 2015\Projects\Majles\ParallelSPSS\obj\Debug\ParallelSPSS.Properties.Resources.resources
+C:\Users\ardhy\Documents\Visual Studio 2015\Projects\Majles\ParallelSPSS\obj\Debug\ParallelSPSS.csproj.GenerateResource.Cache
+C:\Users\ardhy\Documents\Visual Studio 2015\Projects\Majles\ParallelSPSS\obj\Debug\ParallelSPSS.exe
+C:\Users\ardhy\Documents\Visual Studio 2015\Projects\Majles\ParallelSPSS\obj\Debug\ParallelSPSS.pdb
+C:\Users\ardhy\Documents\Visual Studio 2015\Projects\Majles\ParallelSPSS\obj\Debug\ParallelSPSS.FormValue.resources
+C:\Users\ardhy\Documents\Visual Studio 2015\Projects\Majles\ParallelSPSS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ardhy\Documents\Visual Studio 2015\Projects\Majles\ParallelSPSS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ardhy\Documents\Visual Studio 2015\Projects\Majles\ParallelSPSS\bin\Debug\Cudafy.NET.dll
+C:\Users\ardhy\Documents\Visual Studio 2015\Projects\Majles\ParallelSPSS\bin\Debug\Cudafy.NET.xml
+C:\Users\ardhy\Documents\Visual Studio 2015\Projects\Majles\ParallelSPSS\obj\Debug\ParallelSPSS.AnalyzeForm.resources
+C:\Users\ardhy\Documents\Visual Studio 2015\Projects\Majles\ParallelSPSS\obj\Debug\ParallelSPSS.ResultForm.resources
+C:\Users\ardhy\Documents\Visual Studio 2015\Projects\Majles\ParallelSPSS\obj\Debug\ParallelSPSS.MissingForm.resources
+D:\KOLEKSI FILE\MATERI KULIAH\Semester 7\Sistem Paralel\ParallelSPSS\bin\Debug\ParallelSPSS.exe.config
+D:\KOLEKSI FILE\MATERI KULIAH\Semester 7\Sistem Paralel\ParallelSPSS\bin\Debug\ParallelSPSS.exe
+D:\KOLEKSI FILE\MATERI KULIAH\Semester 7\Sistem Paralel\ParallelSPSS\bin\Debug\ParallelSPSS.pdb
+D:\KOLEKSI FILE\MATERI KULIAH\Semester 7\Sistem Paralel\ParallelSPSS\bin\Debug\Cudafy.NET.dll
+D:\KOLEKSI FILE\MATERI KULIAH\Semester 7\Sistem Paralel\ParallelSPSS\bin\Debug\Newtonsoft.Json.dll
+D:\KOLEKSI FILE\MATERI KULIAH\Semester 7\Sistem Paralel\ParallelSPSS\bin\Debug\unvell.ReoGrid.dll
+D:\KOLEKSI FILE\MATERI KULIAH\Semester 7\Sistem Paralel\ParallelSPSS\bin\Debug\Newtonsoft.Json.xml
+D:\KOLEKSI FILE\MATERI KULIAH\Semester 7\Sistem Paralel\ParallelSPSS\obj\Debug\ParallelSPSS.AnalyzeForm.resources
+D:\KOLEKSI FILE\MATERI KULIAH\Semester 7\Sistem Paralel\ParallelSPSS\obj\Debug\ParallelSPSS.Form1.resources
+D:\KOLEKSI FILE\MATERI KULIAH\Semester 7\Sistem Paralel\ParallelSPSS\obj\Debug\ParallelSPSS.Form2.resources
+D:\KOLEKSI FILE\MATERI KULIAH\Semester 7\Sistem Paralel\ParallelSPSS\obj\Debug\ParallelSPSS.FormResultsMean.resources
+D:\KOLEKSI FILE\MATERI KULIAH\Semester 7\Sistem Paralel\ParallelSPSS\obj\Debug\ParallelSPSS.FormValue.resources
+D:\KOLEKSI FILE\MATERI KULIAH\Semester 7\Sistem Paralel\ParallelSPSS\obj\Debug\ParallelSPSS.MissingForm.resources
+D:\KOLEKSI FILE\MATERI KULIAH\Semester 7\Sistem Paralel\ParallelSPSS\obj\Debug\ParallelSPSS.Properties.Resources.resources
+D:\KOLEKSI FILE\MATERI KULIAH\Semester 7\Sistem Paralel\ParallelSPSS\obj\Debug\ParallelSPSS.ResultForm.resources
+D:\KOLEKSI FILE\MATERI KULIAH\Semester 7\Sistem Paralel\ParallelSPSS\obj\Debug\ParallelSPSS.csproj.GenerateResource.Cache
+D:\KOLEKSI FILE\MATERI KULIAH\Semester 7\Sistem Paralel\ParallelSPSS\obj\Debug\ParallelSPSS.exe
+D:\KOLEKSI FILE\MATERI KULIAH\Semester 7\Sistem Paralel\ParallelSPSS\obj\Debug\ParallelSPSS.pdb
+D:\KOLEKSI FILE\MATERI KULIAH\Semester 7\Sistem Paralel\ParallelSPSS\bin\Debug\MathNet.Numerics.dll
+D:\KOLEKSI FILE\MATERI KULIAH\Semester 7\Sistem Paralel\ParallelSPSS\bin\Debug\MathNet.Numerics.pdb
+D:\KOLEKSI FILE\MATERI KULIAH\Semester 7\Sistem Paralel\ParallelSPSS\bin\Debug\MathNet.Numerics.xml
+D:\KOLEKSI FILE\MATERI KULIAH\Semester 7\Sistem Paralel\ParallelSPSS\obj\Debug\ParallelSPSS.csprojResolveAssemblyReference.cache
+D:\KOLEKSI FILE\MATERI KULIAH\Semester 7\Sistem Paralel\ParallelSPSS\obj\Debug\ParallelSPSS.FormHasilMathDotNet.resources
