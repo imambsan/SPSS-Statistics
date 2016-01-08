@@ -2,7 +2,7 @@
 
 SPSS-Statistics merupakaN aplikasi yang dapat menghitung data-data secara sekuensial dan komputasi paralel. Aplikasi ini dibuat dengan bahasa pemrograman C# dan tersedia banyak fungsi-fungsi statistik sederhana dan komplek yang terdiri dari :
 
-#### 1.Parallel Computing
+#### 1. Parallel Computing
   * Modus Parallel
   * Mean Parallel 
   
