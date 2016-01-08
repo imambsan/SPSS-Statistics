@@ -2,6 +2,33 @@
 
 SPSS-Statistics merupakaN aplikasi yang dapat menghitung data-data secara sekuensial dan komputasi paralel. Aplikasi ini dibuat dengan bahasa pemrograman C# dan tersedia banyak fungsi-fungsi statistik sederhana dan komplek yang terdiri dari :
 
+#### 1.Parallel Computing
+  * Modus Parallel
+  * Mean Parallel 
+  
+#### 2. Math.Net Statistics
+  * Min
+  * Max
+  * Mean
+  * Median
+  * Skewness
+  * Standar Deviation
+  * Variance
+  * Kurtosis
+  * Count
+  * Entropy
+  * Range
+  * Population Kurtosis
+  * Population Skewness
+  * Population Standar Deviation
+  * Population Variance
+  
+#### 3. Sekuensial
+  * Max
+  * Min
+  * Modus
+  * Range
+
 Perhitungan modus parallel menggunakan [System.Threading.Tasks.Parallel class](https://msdn.microsoft.com/en-us/library/system.threading.tasks.parallel%28v=vs.100%29.aspx) dengan mengimplementasikan konsep yang ada pada link berikut : https://msdn.microsoft.com/library/dd460693%28v=vs.100%29.aspx. Sedangkan untuk menggunakan packages Math.Net dapat dilihat dokumentasinya di link http://numerics.mathdotnet.com/DescriptiveStatistics.html. Berikut potongan kode program menggunakan Math.Net :
   > var statistic = new DescriptiveStatistics(b);
   var kurtosis = (float)statistic.Kurtosis;
